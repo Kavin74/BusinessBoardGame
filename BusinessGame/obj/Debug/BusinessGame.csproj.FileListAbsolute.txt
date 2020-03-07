@@ -1,0 +1,7 @@
+C:\Users\Dinesh\source\repos\BusinessGame\BusinessGame\bin\Debug\BusinessGame.exe.config
+C:\Users\Dinesh\source\repos\BusinessGame\BusinessGame\bin\Debug\BusinessGame.exe
+C:\Users\Dinesh\source\repos\BusinessGame\BusinessGame\bin\Debug\BusinessGame.pdb
+C:\Users\Dinesh\source\repos\BusinessGame\BusinessGame\obj\Debug\BusinessGame.csprojAssemblyReference.cache
+C:\Users\Dinesh\source\repos\BusinessGame\BusinessGame\obj\Debug\BusinessGame.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\source\repos\BusinessGame\BusinessGame\obj\Debug\BusinessGame.exe
+C:\Users\Dinesh\source\repos\BusinessGame\BusinessGame\obj\Debug\BusinessGame.pdb
